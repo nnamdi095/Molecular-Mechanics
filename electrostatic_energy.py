@@ -1,5 +1,5 @@
 # ELEMENTARY MOLECULAR ENERGY CALCULATION USING MOLECULAR MECHANICS
-# Reference A. Lancaster and G.Webster, Python for the Life Sciences
+
 
 import numpy as np
 import matplotlib.pyplot as plt
